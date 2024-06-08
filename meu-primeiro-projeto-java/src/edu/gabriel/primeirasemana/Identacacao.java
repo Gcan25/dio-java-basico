@@ -1,3 +1,5 @@
+package edu.gabriel.primeirasemana;
+
 public class Identacacao {
     public static void main(String[] args) {
          int mediaFinal = 70;
