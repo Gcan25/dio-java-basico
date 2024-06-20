@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "meu-primeiro-projeto-java_602f8ba0"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.gabriel.terceirasemana.AboutMe",
+            "projectName": "meu-primeiro-projeto-java_602f8ba0"
+        },
+        {
+            "type": "java",
             "name": "CondicoesTernarias",
             "request": "launch",
             "mainClass": "edu.gabriel.terceirasemana.CondicoesTernarias",
